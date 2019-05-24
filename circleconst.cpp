@@ -30,6 +30,7 @@ int main(){
 	
 //as circle is a class ask for a circle c1
 	circle c1;
+	
 
 //give out the area
 	cout<< c1.area()<<endl;
